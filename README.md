@@ -1,1 +1,2 @@
-##this is a readme file
+This is an ongoing project 
+:)
